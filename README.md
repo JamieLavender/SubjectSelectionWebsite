@@ -1,4 +1,6 @@
-# Viewing the website
+# About the website
+
+## Viewing the website
 
 This website isn't currently hosted to my knowledge(meaning you can't find it on the internet). However, if you would like to view the website you can download the code and run it locally. Steps on how to do this can be found below.
 

@@ -1,2 +1,1 @@
-# SubjectSelection
-Subject Selection website
+# Subject Selection Website

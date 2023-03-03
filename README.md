@@ -9,4 +9,5 @@ This website isn't currently hosted to my knowledge(meaning you can't find it on
 
 # Information about the website
 **Information may be outdated.** This website was coded in the first half of 2022, so if anything has changed since then, this website won't update to reflect those changes.
+
 The website isn't responsive(meaning that it looks good on most screen sizes), but it works fine on computer, which I assume most people will be using if you have to download the code and access it locally

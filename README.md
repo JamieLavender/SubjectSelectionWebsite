@@ -9,6 +9,8 @@ This website isn't currently hosted to my knowledge(meaning you can't find it on
 3. This should download a file onto your computer. Double click it which should create a folder named `SubjectSelectionWebsite-main`
 4. Open the folder and find a file that ends in `.html` and double click it, this will open the website.
 
+![Image showing a few of the above steps](https://github.com/javgear/SubjectSelectionWebsite/blob/main/ViewingInstructionsImg.png?raw=true)
+
 If I were you, I would also use a computer(latop/desktop) to do this, and not a phone or tablet.
 
 ## Information about the website
